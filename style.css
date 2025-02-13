@@ -105,13 +105,3 @@ footer {
     padding: 20px;
 
 }
-
-profile-image {
-    
-    width: 150px;  /* Ya 180px for slightly bigger */
-    height: 150px;
-    border-radius: 50%;  /* Circle banane ke liye */
-    object-fit: cover;  /* Image ko properly fit karne ke liye */
-    display: block;
-    margin: 0 auto; /* Center align karne ke liye */
-}
