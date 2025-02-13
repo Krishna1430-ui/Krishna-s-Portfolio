@@ -106,9 +106,9 @@ footer {
 
 }
 profile.jpg {
-    max-width: 20px; /* Apne hisaab se width adjust kar */
+    max-width: auto; /* Apne hisaab se width adjust kar */
     height: auto; /* Aspect ratio maintain rahega */
-    border-radius: 25%; /* Round image ke liye */
+    border-radius: auto; /* Round image ke liye */
     display: block;
     margin: 0 auto;
 }
